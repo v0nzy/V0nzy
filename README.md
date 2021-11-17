@@ -2,8 +2,8 @@
 <h3 align="center"> CTF Player | Cyber Security Enthusiast 🫐</h3>
 
 What currently keeps me busy:
-- Learning Python exploit development.
-- Learning more about PHP.
+- Learning more about Python exploit development.
+- Learning PHP.
 - Getting eCPPTv2 certified.
 
 Socials:
