@@ -4,7 +4,7 @@
 What currently keeps me busy:
 - Learning more about Python exploit development.
 - Learning PHP.
-- Getting eCPPTv2 certified.
+- Getting eCPPTv2 certified. (eLearnSecurity Certified Professional Penetration Tester)
 
 Socials:
 - <a href="https://tryhackme.com/p/Vonzy"> TryHackMe </a>
