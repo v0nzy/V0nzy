@@ -2,9 +2,8 @@
 <h3 align="center"> CTF Player | Cyber Security Enthusiast 🫐</h3>
 
 What currently keeps me busy:
-- Learning more about Python exploit development.
-- Learning PHP.
-- Getting eCPPTv2 certified. (eLearnSecurity Certified Professional Penetration Tester)
+- Getting CRTP certified (Certified Red Team Professional)
+- Getting eWAPTX certified (eLearnSecurity Web application Penetration Tester eXtreme)
 
 Socials:
 - <a href="https://tryhackme.com/p/Vonzy"> TryHackMe </a>
