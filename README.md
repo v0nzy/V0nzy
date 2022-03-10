@@ -2,14 +2,14 @@
 <h3 align="center"> CTF Player | Cyber Security Enthusiast 🫐</h3>
 
 What currently keeps me busy:
-- Getting CRTO certified
+- Getting Certified Red Team Operator (CRTO) certified
 - Learning more about Reverse Engineering
 
 Certification I currently have:
-- CRTP 
-- eCPPT 
-- R&S
-- ENSA
+- Certified Red Team Professional (CRTP) 
+- eCPPTv2 
+- CCNA R&S
+- CCNA ENSA
 
 Socials:
 - <a href="https://tryhackme.com/p/Vonzy"> TryHackMe </a>
