@@ -1,5 +1,5 @@
 <h1 align="center"> Vonzy 🤖 </h1>
-<h3 align="center"> CTF Player | Cyber Security Enthusiast 🫐</h3>
+<h3 align="center"> CTF Player | Offensive Security Enthusiast 🫐</h3>
 
 What currently keeps me busy:
 - Getting Certified Red Team Operator (CRTO) certified
