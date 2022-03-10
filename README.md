@@ -5,7 +5,7 @@ What currently keeps me busy:
 - Getting Certified Red Team Operator (CRTO) certified
 - Learning more about Reverse Engineering
 
-Certification I currently have:
+Certifications I currently have:
 - Certified Red Team Professional (CRTP) 
 - eCPPTv2 
 - CCNA R&S
