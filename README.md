@@ -2,6 +2,7 @@
 <h3 align="center"> CTF Player | Offensive Security Enthusiast 🫐</h3>
 
 What currently keeps me busy:
+- Studying for the eLearnSecurity Certified Penetration Tester eXtreme (eCPTX)
 - Getting Certified Red Team Operator (CRTO) certified
 - Learning more about Reverse Engineering
 
